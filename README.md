@@ -77,8 +77,3 @@ License
 
 This project is intended for educational purposes.
 
-If you want, I can also:
-
-* Optimize this README for recruiters
-* Add badges and screenshots
-* Write a strong GitHub repository description (the short text under the repo name)
